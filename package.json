@@ -1,0 +1,23 @@
+{
+  "name": "personal-website",
+  "version": "1.0.0",
+  "description": "A beautiful personal website for Arin Gopakumar",
+  "main": "index.html",
+  "scripts": {
+    "dev": "live-server --port=3000 --open=/index.html",
+    "build": "echo 'Build complete - static site ready'",
+    "start": "live-server --port=3000 --open=/index.html"
+  },
+  "keywords": [
+    "personal",
+    "website",
+    "portfolio",
+    "modern",
+    "academic"
+  ],
+  "author": "Arin Gopakumar",
+  "license": "MIT",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
