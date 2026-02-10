@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://aringopakumar.github.io/sitemap.xml
+Sitemap: https://aringopakumar.com/sitemap.xml
