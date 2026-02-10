@@ -15,7 +15,7 @@ GitHub: [Arin-Gopakumar](https://github.com/Arin-Gopakumar) • LinkedIn: [aring
 
 ## Education
 
-**University of California, Berkeley**: Computer Science
+**University of California, Berkeley** - Computer Science
 
 ## Former Work
 

@@ -14,7 +14,7 @@ description: "Resume and CV for Arin Gopakumar - Education, skills, and contact 
 
 ## Education
 
-- **University of California, Berkeley**: B.A. Computer Science  
+- **University of California, Berkeley** - B.A. Computer Science  
 
   Coursework: Interpretation of Computer Programs, Linear Algebra & Differential Equations, Deep Learning for Computer Vision
 
